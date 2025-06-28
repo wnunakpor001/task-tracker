@@ -1,2 +1,3 @@
 # Task Tracker
-This is my demo project for git and github tutorial
+My name is Wisdom Nunakpor. This is my demo project for Git and Github Crash Course tutorial.
+Thank you!
